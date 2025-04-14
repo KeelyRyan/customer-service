@@ -1,4 +1,4 @@
-package com.tus.customer_service;
+package com.tus.customer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
